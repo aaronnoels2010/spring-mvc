@@ -12,5 +12,7 @@
 </head>
 <body>
     <h1>This is the home page</h1>
+    <a href="showForm">Name Form</a>
+    <img src="${pageContext.request.contextPath}/resources/images/ado_net.jpg"/>
 </body>
 </html>
